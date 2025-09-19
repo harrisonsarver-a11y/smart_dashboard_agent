@@ -1,14 +1,10 @@
 streamlit
-
 pandas
-
 openpyxl
-
 plotly
-
 seaborn
-
 matplotlib
-
 plotly
+scikit-learn
+
 

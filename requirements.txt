@@ -5,3 +5,9 @@ pandas
 openpyxl
 
 plotly
+
+seaborn
+
+matplotlib.pyplot
+
+plotly.express

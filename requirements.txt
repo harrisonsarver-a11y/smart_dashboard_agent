@@ -8,6 +8,7 @@ plotly
 
 seaborn
 
-matplotlib.pyplot
+matplotlib
 
-plotly.express
+plotly
+
